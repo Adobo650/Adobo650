@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Trump Today: News & Social Hub",
+  "description": "An AI-powered dashboard providing the latest news, simulated social media feeds, and insights related to Donald Trump, utilizing Google's Gemini API for real-time content generation and search grounding.",
+  "requestFramePermissions": []
+}
